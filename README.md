@@ -1,2 +1,2 @@
 # vue-cart
-基于vuejs的购物车版本
+基于vuejs的开发
